@@ -1,2 +1,2 @@
-/* Feng.JS v3.0 2019-09-23 18:28:33 */ 
-Fengs(function(e,t,n,r,i,s,o,u,a){var f=this.d;this[f(e)](f(t),function(e,t,i,s,o,u,a,l){a({initType:0,typeList:f(n),page:f(r)})},[f(i),f(s),f(o),f(u),f(a)])},"6G9QmgzPSO9t69BPSc8A53mK3GGk0dwgQ+mHSelORI8Y4P2W7K9KCyQzuWzwARzoRk8X6GmInGGUQUjo7yKw4PQb8KooRH9z0PzwAR0KlW8c0dwsRy8U8Ksc8HBPQVKEnyKc8HBPROsEzk2K93Bk0KvyAR0KlW836+GalVsE0+K=")
+/* Compression 2019-09-23 18:28:33 */ 
+Cores(function(e,t,n,r,i,s,o,u,a){var f=this.d;this[f(e)](f(t),function(e,t,i,s,o,u,a,l){a({initType:0,typeList:f(n),page:f(r)})},[f(i),f(s),f(o),f(u),f(a)])},"6G9QmgzPSO9t69BPSc8A53mK3GGk0dwgQ+mHSelORI8Y4P2W7K9KCyQzuWzwARzoRk8X6GmInGGUQUjo7yKw4PQb8KooRH9z0PzwAR0KlW8c0dwsRy8U8Ksc8HBPQVKEnyKc8HBPROsEzk2K93Bk0KvyAR0KlW836+GalVsE0+K=")
