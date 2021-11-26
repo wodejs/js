@@ -1,2 +1,2 @@
-/* Feng.JS v3.0 2019-09-23 18:28:29 */ 
-Fengs(function(e,t,n,r){var i=this.d;this[i(e)](i(t),function(e,t,r,s){"use strict";return s(i(n))},[i(r)])},"6G9QmgzPSO9t69BPlOp4QKloR12X0NfVQVN9QOYc0NfVQVN9QOYc8HBPlVsEzH3=")
+/* Compression 2019-09-23 18:28:29 */ 
+Cores(function(e,t,n,r){var i=this.d;this[i(e)](i(t),function(e,t,r,s){"use strict";return s(i(n))},[i(r)])},"6G9QmgzPSO9t69BPlOp4QKloR12X0NfVQVN9QOYc0NfVQVN9QOYc8HBPlVsEzH3=")

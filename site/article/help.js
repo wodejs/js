@@ -1,2 +1,2 @@
-/* Feng.JS v3.0 2020-07-31 17:36:54 */ 
-Fengs(function(e,t,n,r){var i=this.d;this[i(e)](i(t),function(e,t,r,s){return s(i(n))},[i(r)])},"6G9QmgzPSO9t69BPQ+813SBLSK9e8kwkmSmBSSKc6djpS+80ASKc8HBPlVsEzH3=")
+/* Compression 2020-07-31 17:36:54 */ 
+Cores(function(e,t,n,r){var i=this.d;this[i(e)](i(t),function(e,t,r,s){return s(i(n))},[i(r)])},"6G9QmgzPSO9t69BPQ+813SBLSK9e8kwkmSmBSSKc6djpS+80ASKc8HBPlVsEzH3=")
